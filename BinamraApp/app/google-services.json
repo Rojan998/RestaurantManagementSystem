@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195315125691",
+    "firebase_url": "https://binamraapp.firebaseio.com",
+    "project_id": "binamraapp",
+    "storage_bucket": "binamraapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195315125691:android:2d9a1eeadffca73aa4889e",
+        "android_client_info": {
+          "package_name": "com.example.mainbinamra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195315125691-v8ldnnllbodf4g6tin16bnjuvfgmu12d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mainbinamra",
+            "certificate_hash": "24d30fc8ffa4b2c20c2445f2c4c4cc26455dba21"
+          }
+        },
+        {
+          "client_id": "195315125691-1ha55v0rrrn6fflqb462o5qc1pivifm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0iZ36HlDULTMrAWWj_uo_JIXiMm546_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195315125691-1ha55v0rrrn6fflqb462o5qc1pivifm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
